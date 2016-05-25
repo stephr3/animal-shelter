@@ -35,5 +35,6 @@ h2 {
 }
 
 .column p {
-  padding-left: 5%;
+  max-width: 90%;
+  margin: auto;
 }
