@@ -1,0 +1,5 @@
+.column {
+  float:left;
+  border: solid 1px red;
+  max-width: 30%;
+}
