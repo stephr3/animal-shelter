@@ -1,5 +1,39 @@
+body{
+  font-family: sans-serif;
+  max-width: 90%;
+  margin: auto;
+  background-color: #E9DDED;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
 .column {
   float:left;
-  border: solid 1px red;
   max-width: 30%;
+  background-color: #CCE5ED;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.column img {
+  width: 150px;
+  height: 120px;
+  display: block;
+  margin:auto;
+  border: solid 2px black;
+}
+
+.column p {
+  padding-left: 5%;
 }
